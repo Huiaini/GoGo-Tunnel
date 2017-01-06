@@ -1,4 +1,4 @@
-# GoGo-Tunnel
+# GoGo-Tunnel 一键安装脚本
 ##Centos / Debian / Ubuntu 14.04 +
 ###推荐 Debian / Ubuntu
 
