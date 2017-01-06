@@ -6,7 +6,7 @@
 ###Ver: 1.0.0
 
 ##安装
-    wget -N --no-check-certificate https://github.com/Huiaini/GoGo-Tunnel.git && chmod +x gogo.sh && bash gogo.sh
+    wget -N --no-check-certificate https://github.com/Huiaini/GoGo-Tunnel.git && chmod +x gogo.sh && bash GoGo-Tunnel.git
 
 
 
