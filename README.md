@@ -7,3 +7,7 @@
 
 ##安装
     wget -N --no-check-certificate https://github.com/Huiaini/GoGo-Tunnel.git
+
+
+
+##PS：来源逗比博客
